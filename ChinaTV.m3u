@@ -107,6 +107,26 @@ http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
 http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/jbtygqCHCjtyyH265_4000.m3u8
 #EXTINF:-1 catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" tvg-id="6241" tvg-name="CHC高清電影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title=“CHC”,CHC高清電影
 http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
+#EXTINF:-1,黑莓電影 高清
+http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1,黑莓動畫 高清
+http://111.40.196.9/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1,求索動物 高清
+http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
+#EXTINF:-1,求索生活 高清
+http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
+#EXTINF:-1,求索科學 高清
+http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
+#EXTINF:-1,求索紀錄 高清
+http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
+#EXTINF:-1,NewTV超級電影 高清
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-NEWTV06/.m3u8
+#EXTINF:-1,NewTV超級電視劇 高清
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-NEWTV08/.m3u8
+#EXTINF:-1,NewTV動作電影 高清
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/dongzuody/.m3u8
+#EXTINF:-1,NewTV驚悚懸疑 高清
+http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/jingsongxy/.m3u8
 #EXTINF:-1,廣州綜合 高清
 http://ye23.win/iptv/gztv.php?id=zhonghe
 #EXTINF:-1,廣州新聞 高清
@@ -117,9 +137,6 @@ http://ye23.win/iptv/gztv.php?id=yingshi
 http://ye23.win/iptv/gztv.php?id=fazhi
 #EXTINF:-1,廣州競賽 高清
 http://ye23.win/iptv/gztv.php?id=jingsai
-
-
-
 #EXTINF:-1,山西衛視
 http://111.40.196.9/PLTV/88888888/224/3221225649/index.m3u8
 #EXTINF:-1,陝西衛視
