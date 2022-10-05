@@ -127,19 +127,3 @@ http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-NEW
 http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/dongzuody/.m3u8
 #EXTINF:-1,NewTV驚悚懸疑 高清
 http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/jingsongxy/.m3u8
-#EXTINF:-1,廣州綜合 高清
-http://ye23.win/iptv/gztv.php?id=zhonghe
-#EXTINF:-1,廣州新聞 高清
-http://ye23.win/iptv/gztv.php?id=xinwen
-#EXTINF:-1,廣州影視 高清
-http://ye23.win/iptv/gztv.php?id=yingshi
-#EXTINF:-1,廣州法治 高清
-http://ye23.win/iptv/gztv.php?id=fazhi
-#EXTINF:-1,廣州競賽 高清
-http://ye23.win/iptv/gztv.php?id=jingsai
-#EXTINF:-1,山西衛視
-http://111.40.196.9/PLTV/88888888/224/3221225649/index.m3u8
-#EXTINF:-1,陝西衛視
-http://39.135.34.144:8080/000000001000/1000000002000007495/index.m3u8?test/PLTV/=02
-#EXTINF:-1,青海衛視
-http://39.134.65.164/PLTV/88888888/224/3221225573/1.m3u8
