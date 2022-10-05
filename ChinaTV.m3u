@@ -115,11 +115,3 @@ http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/888888
 http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" tvg-id="6244" tvg-name="求索记录" group-title="数字付费",华数求索记录
 http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
-#EXTINF:-1,NewTVt超级电影 高清
-http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-NEWTV06/.m3u8
-#EXTINF:-1,NewTV超级电视剧 高清
-http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-1080P-NEWTV08/.m3u8
-#EXTINF:-1,NewTV动作电影 高清
-http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/dongzuody/.m3u8
-#EXTINF:-1,NewTV惊悚悬疑 高清
-http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/jingsongxy/.m3u8
