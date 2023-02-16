@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-id="141" tvg-name="凤凰中文" group-title="港澳及国外",凤凰卫视中文台
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/鳳凰衛視中文台.png" group-title="香港",鳳凰中文
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-id="142" tvg-name="凤凰资讯" group-title="港澳及国外",凤凰卫视资讯台
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
 #EXTINF:-1 tvg-id="鳳凰香港" tvg-name="鳳凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",鳳凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
