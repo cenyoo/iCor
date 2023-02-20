@@ -123,3 +123,13 @@ http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/888888
 http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" tvg-id="6244" tvg-name="求索记录" group-title="数字付费",华数求索记录
 http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.cc/i1/2020/12/24/RvPVaA.png" tvg-name="MTV Yo!" group-title="MTV",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.cc/i1/2020/12/24/RvPVaA.png" tvg-name="CMT MUSIC" group-title="MTV",CMT MUSIC
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.cc/i1/2020/12/24/RvPVaA.png" tvg-name="MTV Spankin' New" group-title="MTV",MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.cc/i1/2020/12/24/RvPVaA.png" tvg-name="MTV Block Party" group-title="MTV",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.cc/i1/2020/12/24/RvPVaA.png" tvg-name="MTV Biggest Pop" group-title="MTV",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
