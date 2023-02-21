@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1, tvg-id="141", tvg-name="鳳凰中文", tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png", group-title="香港", 鳳凰中文
+#EXTINF:-1, tvg-id="141", tvg-name="鳳凰中文", tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/0fd4fefec367fbe3a32ba701d88e1b90ec7357e9/凤凰卫视中文台.png", group-title="香港", 鳳凰中文
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1, tvg-id="142", tvg-name="鳳凰資訊", tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png", group-title="香港", 鳳凰資訊
+#EXTINF:-1, tvg-id="142", tvg-name="鳳凰資訊", tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/0fd4fefec367fbe3a32ba701d88e1b90ec7357e9/凤凰卫视资讯台.png", group-title="香港", 鳳凰資訊
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1, tvg-id="143", tvg-name="鳳凰香港", tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png", group-title="香港", 鳳凰香港
+#EXTINF:-1, tvg-id="143", tvg-name="鳳凰香港", tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/0fd4fefec367fbe3a32ba701d88e1b90ec7357e9/凤凰卫视香港台.png", group-title="香港", 鳳凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1, tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png", tvg-id="106", tvg-name="CCTV4K", group-title="央视", CCTV4K
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
@@ -111,25 +111,25 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" tvg-id="6241" tvg-name="CHC高清电影" group-title="数字付费",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="其他",黑莓电影
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影", tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/0fd4fefec367fbe3a32ba701d88e1b90ec7357e9/黑莓电影.png", group-title="其他", 黑莓电影
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225718/2/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="其他",黑莓动画
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画", tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/0fd4fefec367fbe3a32ba701d88e1b90ec7357e9/黑莓动画.png", group-title="其他", 黑莓动画
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225672/2/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" tvg-id="6242" tvg-name="求索动物" group-title="数字付费",华数求索动物
+#EXTINF:-1, tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png", tvg-id="6242" tvg-name="求索动物", group-title="数字付费", 华数求索动物
 http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.png" tvg-id="6243" tvg-name="求索生活" group-title="数字付费",华数求索生活
+#EXTINF:-1, tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.png", tvg-id="6243" tvg-name="求索生活", group-title="数字付费", 华数求索生活
 http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png" tvg-id="6240" tvg-name="求索科学" group-title="数字付费",华数求索科学
+#EXTINF:-1, tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.png", tvg-id="6240" tvg-name="求索科学", group-title="数字付费", 华数求索科学
 http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" tvg-id="6244" tvg-name="求索记录" group-title="数字付费",华数求索记录
+#EXTINF:-1, tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png", tvg-id="6244" tvg-name="求索记录", group-title="数字付费", 华数求索记录
 http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/a471594e02f8b185decb954afbb5a5f111e3b8ad/MTV.png" tvg-name="MTV Yo!" group-title="MTV",MTV Yo!
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/a471594e02f8b185decb954afbb5a5f111e3b8ad/MTV.png", tvg-name="MTV Yo!", group-title="MTV", MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/a471594e02f8b185decb954afbb5a5f111e3b8ad/MTV.png" tvg-name="CMT MUSIC" group-title="MTV",CMT MUSIC
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/a471594e02f8b185decb954afbb5a5f111e3b8ad/MTV.png", tvg-name="CMT MUSIC", group-title="MTV", CMT MUSIC
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/a471594e02f8b185decb954afbb5a5f111e3b8ad/MTV.png" tvg-name="MTV Spankin' New" group-title="MTV",MTV Spankin' New
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/a471594e02f8b185decb954afbb5a5f111e3b8ad/MTV.png", tvg-name="MTV Spankin' New", group-title="MTV", MTV Spankin' New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/a471594e02f8b185decb954afbb5a5f111e3b8ad/MTV.png" tvg-name="MTV Block Party" group-title="MTV",MTV Block Party
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/a471594e02f8b185decb954afbb5a5f111e3b8ad/MTV.png", tvg-name="MTV Block Party", group-title="MTV", MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/a471594e02f8b185decb954afbb5a5f111e3b8ad/MTV.png" tvg-name="MTV Biggest Pop" group-title="MTV",MTV Biggest Pop
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/a471594e02f8b185decb954afbb5a5f111e3b8ad/MTV.png", tvg-name="MTV Biggest Pop", group-title="MTV", MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
