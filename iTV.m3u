@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 tvg-id="141" tvg-name="鳳凰中文" tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/0fd4fefec367fbe3a32ba701d88e1b90ec7357e9/凤凰卫视中文台.png" group-title="香港", 鳳凰中文
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/0fd4fefec367fbe3a32ba701d88e1b90ec7357e9/凤凰卫视中文台.png" tvg-id="141" tvg-name="鳳凰中文" group-title="香港", 鳳凰中文
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-id="142" tvg-name="鳳凰資訊" tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/0fd4fefec367fbe3a32ba701d88e1b90ec7357e9/凤凰卫视资讯台.png" group-title="香港", 鳳凰資訊
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/0fd4fefec367fbe3a32ba701d88e1b90ec7357e9/凤凰卫视资讯台.png" tvg-id="142" tvg-name="鳳凰資訊" group-title="香港", 鳳凰資訊
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-id="143" tvg-name="鳳凰香港" tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/0fd4fefec367fbe3a32ba701d88e1b90ec7357e9/凤凰卫视香港台.png" group-title="香港", 鳳凰香港
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/0fd4fefec367fbe3a32ba701d88e1b90ec7357e9/凤凰卫视香港台.png" tvg-id="143" tvg-name="鳳凰香港" group-title="香港", 鳳凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-id="106" tvg-name="CCTV4K" group-title="央視", CCTV4K
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
@@ -47,71 +47,75 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226990/index.m3u
 http://[2409:8087:5011:1020::1a]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png" tvg-id="891" tvg-name="CGTNDocumentary" group-title="央視", CGTN-紀錄(英)
 http://[2409:8087:5011:1020::1a]/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" tvg-id="27" tvg-name="湖南衛視" group-title="衛視", 湖南衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" tvg-id="27" tvg-name="湖南衛視" group-title="衛視", 湖南衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227232/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" tvg-id="28" tvg-name="浙江衛視" group-title="衛視", 浙江衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" tvg-id="28" tvg-name="浙江衛視" group-title="衛視", 浙江衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" tvg-id="31" tvg-name="東方衛視" group-title="衛視", 東方衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" tvg-id="31" tvg-name="東方衛視" group-title="衛視", 東方衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225828/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" tvg-id="29" tvg-name="江蘇衛視" group-title="衛視", 江蘇衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" tvg-id="29" tvg-name="江蘇衛視" group-title="衛視", 江蘇衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225847/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" tvg-id="30" tvg-name="北京衛視" group-title="衛視", 北京衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" tvg-id="30" tvg-name="北京衛視" group-title="衛視", 北京衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225826/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" tvg-id="32" tvg-name="安徽衛視" group-title="衛視", 安徽衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" tvg-id="32" tvg-name="安徽衛視" group-title="衛視", 安徽衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225844/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" tvg-id="33" tvg-name="廣東衛視" group-title="衛視", 廣東衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" tvg-id="33" tvg-name="廣東衛視" group-title="衛視", 廣東衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225824/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" tvg-id="34" tvg-name="深圳衛視" group-title="衛視", 深圳衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" tvg-id="34" tvg-name="深圳衛視" group-title="衛視", 深圳衛視
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225741/2/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" tvg-id="36" tvg-name="遼寧衛視" group-title="衛視", 遼寧衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" tvg-id="36" tvg-name="遼寧衛視" group-title="衛視", 遼寧衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225832/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" tvg-id="37" tvg-name="旅遊衛視" group-title="衛視", 海南衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" tvg-id="37" tvg-name="海南衛視" group-title="衛視", 海南衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227216/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" tvg-id="38" tvg-name="山東衛視" group-title="衛視", 山東衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" tvg-id="38" tvg-name="山東衛視" group-title="衛視", 山東衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225843/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" tvg-id="39" tvg-name="天津衛視" group-title="衛視", 天津衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" tvg-id="54" tvg-name="山西衛視" group-title="衛視", 山西衛視
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225730/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" tvg-id="39" tvg-name="天津衛視" group-title="衛視", 天津衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225830/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" tvg-id="40" tvg-name="重慶衛視" group-title="衛視", 重慶衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" tvg-id="40" tvg-name="重慶衛視" group-title="衛視", 重慶衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227240/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" tvg-id="41" tvg-name="東南衛視" group-title="衛視", 東南衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" tvg-id="41" tvg-name="東南衛視" group-title="衛視", 東南衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" tvg-id="44" tvg-name="貴州衛視" group-title="衛視", 貴州衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" tvg-id="44" tvg-name="貴州衛視" group-title="衛視", 貴州衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227201/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" tvg-id="45" tvg-name="河北衛視" group-title="衛視", 河北衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" tvg-id="45" tvg-name="河北衛視" group-title="衛視", 河北衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227063/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" tvg-id="46" tvg-name="黑龍江衛視" group-title="衛視", 黑龍江衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" tvg-id="46" tvg-name="黑龍江衛視" group-title="衛視", 黑龍江衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225862/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" tvg-id="47" tvg-name="河南衛視" group-title="衛視", 河南衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" tvg-id="47" tvg-name="河南衛視" group-title="衛視", 河南衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225842/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" tvg-id="48" tvg-name="湖北衛視" group-title="衛視", 湖北衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" tvg-id="48" tvg-name="湖北衛視" group-title="衛視", 湖北衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225840/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" tvg-id="50" tvg-name="江西衛視" group-title="衛視", 江西衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" tvg-id="50" tvg-name="江西衛視" group-title="衛視", 江西衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225834/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" tvg-id="56" tvg-name="四川衛視" group-title="衛視", 四川衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" tvg-id="56" tvg-name="四川衛視" group-title="衛視", 四川衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227182/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" tvg-id="42" tvg-name="甘肅衛視" group-title="衛視", 甘肅衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" tvg-id="42" tvg-name="甘肅衛視" group-title="衛視", 甘肅衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227262/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" tvg-id="51" tvg-name="吉林衛視" group-title="衛視", 吉林衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" tvg-id="51" tvg-name="吉林衛視" group-title="衛視", 吉林衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227099/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" tvg-id="43" tvg-name="廣西衛視" group-title="衛視", 廣西衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" tvg-id="43" tvg-name="廣西衛視" group-title="衛視", 廣西衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227250/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" tvg-id="58" tvg-name="雲南衛視" group-title="衛視", 雲南衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" tvg-id="58" tvg-name="雲南衛視" group-title="衛視", 雲南衛視
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
-#EXTINF:-1 tvg-id="91" tvg-name="青海衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="衛視", 青海衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" tvg-id="91" tvg-name="青海衛視" group-title="衛視", 青海衛視
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225727/2/index.m3u8
-#EXTINF:-1 tvg-id="57" tvg-name="新疆衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="衛視", 新疆衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" tvg-id="57" tvg-name="新疆衛視" group-title="衛視", 新疆衛視
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
-#EXTINF:-1 tvg-id="72" tvg-name="三沙衛視" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="衛視", 三沙衛視
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" tvg-id="72" tvg-name="三沙衛視" group-title="衛視", 三沙衛視
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/海峡卫视.png" tvg-id="海峡卫视" tvg-name="海峽衛視" group-title="衛視", 海峽衛視
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227198/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" tvg-id="6245" tvg-name="CHC動作電影" group-title="數字付費", CHC動作電影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" tvg-id="6246" tvg-name="CHC家庭電影" group-title="數字付費", CHC家庭電影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" tvg-id="6241" tvg-name="CHC高清電影" group-title="數字付費", CHC高清電影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="黑莓電影" tvg-name="黑莓電影" tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/0fd4fefec367fbe3a32ba701d88e1b90ec7357e9/黑莓电影.png" group-title="其他", 黑莓電影
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/0fd4fefec367fbe3a32ba701d88e1b90ec7357e9/黑莓电影.png" tvg-id="黑莓電影" tvg-name="黑莓電影" group-title="數字付費", 黑莓電影
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225718/2/index.m3u8
-#EXTINF:-1 tvg-id="黑莓動畫" tvg-name="黑莓動畫" tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/0fd4fefec367fbe3a32ba701d88e1b90ec7357e9/黑莓动画.png" group-title="其他", 黑莓動畫
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/0fd4fefec367fbe3a32ba701d88e1b90ec7357e9/黑莓动画.png" tvg-id="黑莓動畫" tvg-name="黑莓動畫" group-title="數字付費", 黑莓動畫
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225672/2/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.png" tvg-id="6242" tvg-name="求索動物" group-title="數字付費", 華數求索動物
 http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
