@@ -10,9 +10,9 @@ http://r.jdshipin.com/62WM7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠台.png" tvg-id=“127” tvg-name=“明珠台” group-title="香港”,TVB-明珠台
 https://pull-l3-cny.douyincdn.com/live/7cb61345ef466f1008fd0fbb34328d72.flv?time=1676995076
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBJ2.png" tvg-id=“416” tvg-name=“J2” group-title="香港”, TVB-J2
-https://pull-l3-cny.douyincdn.com/live/d03d7a02153546ce285d9cc6bd5bf8ff.flv?time=1677010677
+https://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/main/ViuTV.png" tvg-id=“408” tvg-name=“ViuTV” group-title="香港”, ViuTV
-https://pull-l3-cny.douyincdn.com/live/bb9e92a36cdb16835a6556d248933dd9.m3u8
+https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-id="106" tvg-name="CCTV4K" group-title="央視", CCTV4K
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-id="1" tvg-name="CCTV1" group-title="央視", CCTV-1綜合
