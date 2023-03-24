@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/main/凤凰卫视中文台.png" tvg-id="141" tvg-name="鳳凰中文" group-title="香港", 鳳凰中文
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/main/凤凰卫视资讯台.png" tvg-id="142" tvg-name="鳳凰資訊" group-title="香港", 鳳凰資訊
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/main/凤凰卫视香港台.png" tvg-id="143" tvg-name="鳳凰香港" group-title="香港", 鳳凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠台.png" tvg-id=“126” tvg-name=“翡翠台” group-title="香港", TVB-翡翠台
