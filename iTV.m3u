@@ -15,7 +15,7 @@ https://cdn.hklive.tv/xxxx/82/index.m3u8
 https://cdn.hklive.tv/xxxx/99/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/main/ViuTVsix.png" tvg-id=“409” tvg-name=“ViuTVsix” group-title="港澳台", ViuTVsix
 https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/main/TTV.png" tvg-id=“126” tvg-name=“台視” group-title="港澳台”, 台視 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/main/TTV.png" tvg-id=“0” tvg-name=“台視” group-title="港澳台", 台視 
 http://23.237.10.66:16344
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4k.png" tvg-id="106" tvg-name="CCTV4K" group-title="數字付費", 4K超高清電影
 http://wabc.ml/sxg.php?id=emdy4k_8000
