@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/main/凤凰卫视中文台.png" tvg-id="141" tvg-name="鳳凰中文" group-title="港澳台", 鳳凰中文
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-165dc5f7-0550-4234-8a46-3bbfc3abebfc.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/main/凤凰卫视资讯台.png" tvg-id="142" tvg-name="鳳凰資訊" group-title="港澳台", 鳳凰資訊
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-9360f40b-b549-4547-b8dc-0072187c6d35.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/cenyoo/iCor/main/凤凰卫视香港台.png" tvg-id="143" tvg-name="鳳凰香港" group-title="港澳台”, 鳳凰香港
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-0277fe70-f48c-47f3-ae01-ea912959e3cb.m3u8
+http://113.117.74.20:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB翡翠台.png" tvg-id=“126” tvg-name=“翡翠台” group-title="港澳台”, TVB-翡翠台
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-73905fd6-73e2-4bee-9212-8f1fc7534e65.m3u8
+http://r.jdshipin.com/62WM
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠台.png" tvg-id=“127” tvg-name=“明珠台” group-title="港澳台", TVB-明珠台
 https://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBJ2.png" tvg-id=“416” tvg-name=“J2” group-title="港澳台", TVB-J2
